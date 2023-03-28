@@ -1,0 +1,14 @@
+D:\ДЗ\4 курс\2 семестр\Конструювання ПЗ\ЛР 11\HelloWorldGit\HelloWorldGit\bin\Debug\netcoreapp3.1\HelloWorldGit.exe
+D:\ДЗ\4 курс\2 семестр\Конструювання ПЗ\ЛР 11\HelloWorldGit\HelloWorldGit\bin\Debug\netcoreapp3.1\HelloWorldGit.deps.json
+D:\ДЗ\4 курс\2 семестр\Конструювання ПЗ\ЛР 11\HelloWorldGit\HelloWorldGit\bin\Debug\netcoreapp3.1\HelloWorldGit.runtimeconfig.json
+D:\ДЗ\4 курс\2 семестр\Конструювання ПЗ\ЛР 11\HelloWorldGit\HelloWorldGit\bin\Debug\netcoreapp3.1\HelloWorldGit.runtimeconfig.dev.json
+D:\ДЗ\4 курс\2 семестр\Конструювання ПЗ\ЛР 11\HelloWorldGit\HelloWorldGit\bin\Debug\netcoreapp3.1\HelloWorldGit.dll
+D:\ДЗ\4 курс\2 семестр\Конструювання ПЗ\ЛР 11\HelloWorldGit\HelloWorldGit\bin\Debug\netcoreapp3.1\HelloWorldGit.pdb
+D:\ДЗ\4 курс\2 семестр\Конструювання ПЗ\ЛР 11\HelloWorldGit\HelloWorldGit\obj\Debug\netcoreapp3.1\HelloWorldGit.csproj.AssemblyReference.cache
+D:\ДЗ\4 курс\2 семестр\Конструювання ПЗ\ЛР 11\HelloWorldGit\HelloWorldGit\obj\Debug\netcoreapp3.1\HelloWorldGit.GeneratedMSBuildEditorConfig.editorconfig
+D:\ДЗ\4 курс\2 семестр\Конструювання ПЗ\ЛР 11\HelloWorldGit\HelloWorldGit\obj\Debug\netcoreapp3.1\HelloWorldGit.AssemblyInfoInputs.cache
+D:\ДЗ\4 курс\2 семестр\Конструювання ПЗ\ЛР 11\HelloWorldGit\HelloWorldGit\obj\Debug\netcoreapp3.1\HelloWorldGit.AssemblyInfo.cs
+D:\ДЗ\4 курс\2 семестр\Конструювання ПЗ\ЛР 11\HelloWorldGit\HelloWorldGit\obj\Debug\netcoreapp3.1\HelloWorldGit.csproj.CoreCompileInputs.cache
+D:\ДЗ\4 курс\2 семестр\Конструювання ПЗ\ЛР 11\HelloWorldGit\HelloWorldGit\obj\Debug\netcoreapp3.1\HelloWorldGit.dll
+D:\ДЗ\4 курс\2 семестр\Конструювання ПЗ\ЛР 11\HelloWorldGit\HelloWorldGit\obj\Debug\netcoreapp3.1\HelloWorldGit.pdb
+D:\ДЗ\4 курс\2 семестр\Конструювання ПЗ\ЛР 11\HelloWorldGit\HelloWorldGit\obj\Debug\netcoreapp3.1\HelloWorldGit.genruntimeconfig.cache

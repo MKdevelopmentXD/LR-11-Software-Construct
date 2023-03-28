@@ -6,7 +6,9 @@ namespace HelloWorldGit
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World! " + DateTime.Now.ToString());
+            Console.Write("Введiть ваше iм'я\n>>>");
+            String name = Console.ReadLine();
+            Console.WriteLine("Привіт " + name + ", поточна дата та час: " + DateTime.Now.ToString());
         }
     }
 }

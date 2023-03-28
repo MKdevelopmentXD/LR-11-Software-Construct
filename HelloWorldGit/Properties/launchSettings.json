@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "HelloWorldGit": {
+      "commandName": "Project",
+      "commandLineArgs": "all"
+    }
+  }
+}

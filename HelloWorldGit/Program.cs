@@ -6,7 +6,7 @@ namespace HelloWorldGit
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(DateTime.Now.ToString());
+            Console.WriteLine("Hello World!" + DateTime.Now.ToString());
         }
     }
 }
